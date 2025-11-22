@@ -64,8 +64,6 @@ A simple AI-based Air Drum application that uses OpenCV, color detection, and py
 
 Wave a blue-colored item in front of the camera to hit drum pads.
 
-Make sure to open an drum website in the background as the pyhon file just Detects as activates the coresponding key the music itself is produced by external website.You can cange the mapping to match the website key mapping to get optimal results
-
 ## 📝 Code Overview
 
 - HSV Masking: Detects blue color
